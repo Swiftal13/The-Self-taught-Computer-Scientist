@@ -12,13 +12,13 @@ A complexity is symbolised using the <b>big O notation</b>
 - Time complexity is used to represent the magnitude of the run time of the algorithm, the time for the steps taken in an algorithm
 - it is useful to show the efficiency of an algorithm
 
-Each complexity in descending efficiency
-Constant O(1)
-Logarithmic O(log n)
-Linear O(n)
-Log Linear O(n log n)
-Quadratic O(n^2)
-Cubic O(n^3)
-exponential O(a^n) such as 2^n
+Each complexity in descending efficiency<br>
+Constant O(1)<br>
+Logarithmic O(log n)<br>
+Linear O(n)<br>
+Log Linear O(n log n)<br>
+Quadratic O(n^2)<br>
+Cubic O(n^3)<br>
+exponential O(a^n) such as 2^n<br><br>
 
 Space complexity is the amount of memory an algorithm uses
