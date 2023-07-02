@@ -5,5 +5,5 @@ Every algorithm has 3 qualities
 - Effectiveness: you can peform each operation precisely to solve the problem
 - Finiteness: algorithm stops after a finite number of steps
 
-The magnitude of algorithms are measured by Time and Space complexity
+The magnitude of algorithms are measured by Time and Space complexity<br>
 A complexity is symbolised using the big O notation
