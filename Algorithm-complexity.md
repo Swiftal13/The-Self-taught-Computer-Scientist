@@ -1,4 +1,4 @@
-# Algorithms-and-data-structures
+# Algorithms
 
 Every algorithm has 3 qualities
 - Definiteness: the steps are clear, concise and unambiguous
