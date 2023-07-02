@@ -6,4 +6,4 @@ Every algorithm has 3 qualities
 - Finiteness: algorithm stops after a finite number of steps
 
 The magnitude of algorithms are measured by Time and Space complexity<br>
-A complexity is symbolised using the big O notation
+A complexity is symbolised using the <b>big O notation</b>
