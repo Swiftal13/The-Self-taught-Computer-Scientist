@@ -19,3 +19,6 @@ Linear O(n)
 Log Linear O(n log n)
 Quadratic O(n^2)
 Cubic O(n^3)
+exponential O(a^n) such as 2^n
+
+Space complexity is the amount of memory an algorithm uses
