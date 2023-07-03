@@ -26,4 +26,5 @@ exponential O(a^n) such as 2^n<br><br>
 
 Space complexity is the amount of memory an algorithm uses depending on its input size<br>
 - It is comprised of the auxillary space and input space
+- must be considered when their is a memory limit
 
