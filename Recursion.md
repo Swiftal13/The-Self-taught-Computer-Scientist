@@ -11,10 +11,11 @@ An alternative aproach to an iterative process via loops, you can use recursion 
   The recursive manner stops until a certain condition is met called: Base Case
 This is similar to a while loop running until the certain condition is false
 
+```py
 def factorial(n):
     if n == 1:
       return 1
     else:
       n -= 1
       n * factorial(n-1)
-  
+  ```
