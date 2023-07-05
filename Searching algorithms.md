@@ -1,7 +1,5 @@
 ## Searching algorithms
 
-Linear search<br>
-
 Linear search is a sequential searching algorithm<br>
 - You look at each value one by one, comparing to the value your looking for<br>
 - if a value does not match, move onto the next one
@@ -16,3 +14,8 @@ for i in list:
 ```
 
 Efficient for small lists, can work on both ordered and unordered lists
+
+
+
+Binary search is another searching algorithm <br>
+- 
