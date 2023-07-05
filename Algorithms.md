@@ -26,5 +26,10 @@ exponential O(a^n) such as 2^n<br><br>
 
 Space complexity is the amount of memory an algorithm uses depending on its input size<br>
 - It is comprised of the auxillary space and input space
-- must be considered when their is a memory limit
+- must be considered when their is a memory limit<br><br>
 
+# Best and Worst case
+Within algorithms there is a best and worst case<br>
+A best case scenario is the best possible input, which takes the least time and most efficient process<br>
+A worst case scenario is the worst possible input, which takes the most amount of time and least efficient<br>
+There is also an average
