@@ -16,6 +16,7 @@ for i in list:
 Efficient for small lists, can work on both ordered and unordered lists
 
 
+Binary search is another searching algorithm<br>
 
-Binary search is another searching algorithm <br>
-- 
+
+
