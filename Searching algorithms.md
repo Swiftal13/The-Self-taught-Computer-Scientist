@@ -23,3 +23,18 @@ if number is higher than numebr your finding, remove right half of list<br><br>
 Repeat previous 3 lines, until you reach your number
 
 
+My approach to coding it
+```py
+while len(list) != 1:
+    index = int((len(list)+1)/2)
+    middle = list[index]
+    print(middle)
+    if middle == 49:
+        print("FOUND IT")
+        break
+    else:
+        if middle < 49:
+            del list[0:index]
+        elif middle > 49:
+            del list[index:-1]
+```
