@@ -22,7 +22,7 @@ Cubic O(n^3)<br>
 exponential O(a^n) such as 2^n<br><br>
 
 
-<u>Space complexity</u><br>
+<b>Space complexity</b><br>
 
 Space complexity is the amount of memory an algorithm uses depending on its input size<br>
 - It is comprised of the auxillary space and input space
