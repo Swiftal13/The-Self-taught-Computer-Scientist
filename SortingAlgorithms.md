@@ -1,5 +1,4 @@
-##Bubble sort
+## Bubble sort
+## Merge sort
+## Insertion sort
 
-##Merge sort
-
-##Insertion sort
