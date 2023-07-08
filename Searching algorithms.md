@@ -16,7 +16,7 @@ for i in list:
 Efficient for small lists, can work on both ordered and unordered lists
 
 
-Binary search is another searching algorithm<br>
+<b>Binary search</b> is another searching algorithm<br>
 This includes finding the middle value, comparing number. If number is the one you want, stop.<br>
 if number is less than the number your finding, remove left half of list<br>
 if number is higher than numebr your finding, remove right half of list<br><br>
