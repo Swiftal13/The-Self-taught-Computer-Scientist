@@ -57,3 +57,6 @@ def binary_search(list2, n):
                 first = mid + 1         
     return False
 ```
+
+You can use logarithm to find how many iterations it will take a binary seach to find a number in a list
+log2(8) = 3
