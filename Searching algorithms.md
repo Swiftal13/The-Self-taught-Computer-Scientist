@@ -38,3 +38,8 @@ while len(list) != 1:
         elif middle > 49:
             del list[index:-1]
 ```
+
+Best way to code it
+```py
+first = 0
+last = len(a
