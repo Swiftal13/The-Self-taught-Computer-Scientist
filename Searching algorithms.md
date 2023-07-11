@@ -41,5 +41,17 @@ while len(list) != 1:
 
 Best way to code it
 ```py
-first = 0
-last = len(a
+def binary_search(list2, n):
+    first = 0
+    last = len(list2) - 1
+    while last >= first:
+        mid = (first + last) // 2
+        if list2[mid] == n:
+            return True
+        else:
+            if n < list2[mid]:
+                last = mid - 1
+            else:
+                first = mid + 1         
+    return False
+```
