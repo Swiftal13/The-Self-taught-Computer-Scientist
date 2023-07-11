@@ -59,5 +59,5 @@ def binary_search(list2, n):
 ```
 
 You can use logarithm to find how many iterations it will take a binary seach to find a number in a list<br>
-Logarithmic notation is log2(8) = 3
+Logarithmic notation is log2(8) = 3<br>
 Exponential notation is 2x2x2 = 8  (three 2s)
