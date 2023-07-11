@@ -5,6 +5,9 @@ Comparing numbers in pairs, swapping them if they are in the wrong order
 - time complexity is O(n**2), therefore useful for small data sets, but not efficient choice for larger ones
 
 My approach to coding it
+```py
+give me one second
+```
 
 
 
