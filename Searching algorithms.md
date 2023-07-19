@@ -14,16 +14,16 @@ for i in list:
 ```
 
 Efficient for small lists, can work on both ordered and unordered lists<br>
-The time complexity for linear search is O(n) (linear time complexity)
+The time complexity for linear search is **O(n) (linear time complexity)**
 
 
-<b>Binary search</b> is another searching algorithm<br>
+**Binary search** is another searching algorithm<br>
 This includes finding the middle value, comparing number. If number is the one you want, stop.<br>
 if number is less than the number your finding, remove left half of list<br>
 if number is higher than numebr your finding, remove right half of list<br><br>
 Repeat previous 3 lines, until you reach your number
 
-Time complexity of O(log n)
+**Time complexity of O(log n)**
 
 
 My approach to coding it
