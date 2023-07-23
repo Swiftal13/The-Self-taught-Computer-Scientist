@@ -1,7 +1,7 @@
 <b>Recursion</b>
 
 An alternative aproach to an iterative process via loops, you can use recursion instead
-- it can be less lines of code
+- it can be less lines of code more efficient 
 - more elegent concise
 
 - A function is called to be executed
