@@ -3,3 +3,4 @@
 
 - Arrays (2d,3d..)
 - Linked lists
+- stacks
