@@ -5,4 +5,4 @@
 - Linked lists
 - stacks
 - heaps / binary tree structure
-- 
+- hashtables and maps
