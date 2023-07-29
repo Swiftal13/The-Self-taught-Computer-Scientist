@@ -1,2 +1,2 @@
 ## Data structures
- yo wsp
+ Detailed notes for each data structure from arrays to BST heaps
