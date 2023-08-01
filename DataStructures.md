@@ -21,7 +21,7 @@ At default arrays are always **zero-indexed**, meaning to access the first (1) e
 ```py 
 TestArray = [2,5,1,4,8,9,3]
 ```
--- To access the second element you do 
+To access the second element you do 
 ```py 
 TestArray[1]
 ```
