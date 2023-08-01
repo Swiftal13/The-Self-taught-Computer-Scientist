@@ -10,3 +10,4 @@
 
 # Array 
 An array is an **ordered, finite set of elements**, each of the **same data type**
+A 1D array is a linear array. It can also be 2D, 3D and so on
