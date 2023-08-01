@@ -25,3 +25,5 @@ To access the second element you do
 ```py 
 TestArray[1]
 ```
+
+**A 2D array**<br>
