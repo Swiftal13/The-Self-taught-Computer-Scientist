@@ -17,7 +17,7 @@ A 1D array is a linear array. It can also be 2D, 3D and so on<br><br>
 
 At default arrays are always **zero-indexed**, meaning to access the first (1) element, you use the index of [0]
 <br><br>
-<u>A 1D array</u><br>
+**A 1D array**<br>
 ```py 
 TestArray = [2,5,1,4,8,9,3]
 ```
