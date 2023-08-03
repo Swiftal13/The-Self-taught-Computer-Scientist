@@ -28,4 +28,4 @@ def binary_search(list2, n):
 merge sort is the process of breaking down a list into single elements, then grouping them into pairs, ordering, grouping into two smaller lists, ordering, and then finally grouping them back into one complete list in the correct order
 ## Insertion sort
 insertion sort is conparing a number to all the prevoous ones before it 
-
+bad for very long data good for short
