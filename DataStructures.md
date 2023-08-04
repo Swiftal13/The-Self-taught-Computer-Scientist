@@ -30,3 +30,6 @@ TestArray[1]
 ```py 
 TestArray = [[1,4,3,6],[5,3,7,1]]
 ```
+To access the 3rd element of the 2nd list you do
+```py
+TestArray[1,
