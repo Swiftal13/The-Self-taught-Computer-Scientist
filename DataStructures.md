@@ -1,4 +1,4 @@
-## Data structures
+ ## Data structures
  Detailed notes for each data structure from arrays to BST heaps and stacks
 
 - Arrays (2d,3d..)
@@ -32,4 +32,4 @@ TestArray = [[1,4,3,6],[5,3,7,1]]
 ```
 To access the 3rd element of the 2nd list you do
 ```py
-TestArray[1,2
+TestArray[1,2]
