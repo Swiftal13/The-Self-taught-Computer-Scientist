@@ -36,4 +36,5 @@ TestArray[1,2]
 ```
 
 # List
+similar to array but non contiguous memory placr
 
