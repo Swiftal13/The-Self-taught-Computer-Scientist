@@ -40,3 +40,4 @@ similar to array but non contiguous memory placr
 values do not have to be same data type
 
 # Tuple 
+A tuple is set of ordered elements.
