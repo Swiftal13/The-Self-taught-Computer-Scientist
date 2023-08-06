@@ -38,7 +38,7 @@ TestArray[1,2]
 # List
 similar to array but non contiguous memory placr
 values do not have to be same data type
-list also uses indexing to access elements. 
+list also uses indexing to access elements.<br>
 lists however can contain different data types, not just one
 
 # Tuple 
