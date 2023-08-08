@@ -42,9 +42,9 @@ list also uses indexing to access elements.<br>
 lists however can contain different data types, not just one
 
 # Common functions
-list.append(value) to add data value to end of list
-list.insert(value, index)
-list.remove(value)
+list.append(value) to add data value to end of list 
+list.insert(value, index) insert a new data value at a specific point in the list
+list.remove(value) remove a value from list
 list.isEmpty() returns True if list is empty
 
  
