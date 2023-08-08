@@ -25,7 +25,7 @@ To access the second element you do
 ```py 
 TestArray[1]
 ```
-yes
+
 **A 2D array**<br>
 ```py 
 TestArray = [[1,4,3,6],[5,3,7,1]]
