@@ -41,6 +41,13 @@ values do not have to be same data type
 list also uses indexing to access elements.<br>
 lists however can contain different data types, not just one
 
+# Common functions
+list.append(value)
+list.insert(value, index)
+list.remove(value)
+
+ 
+
 # Tuple 
 A tuple is set of ordered elements. However it is <b>immutable</b>
 ```py
