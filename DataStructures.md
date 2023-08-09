@@ -57,4 +57,5 @@ TestTuple = (3,9,1)
     
 # record
 a record is one row of fields in a database
+each field is a different type of value
 
