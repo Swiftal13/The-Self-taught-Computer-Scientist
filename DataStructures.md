@@ -61,3 +61,5 @@ TestTuple = (3,9,1)
 a record is one row of fields in a database
 each field is a different type of value
 
+you can access each specific field of the record by this format 
+
