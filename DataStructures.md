@@ -54,6 +54,8 @@ A tuple is set of ordered elements. However it is <b>immutable</b><br>
 this means it cannot be modified 
 ```py 
 TestTuple = (3,9,1)
+```
+
     
 # record
 a record is one row of fields in a database
