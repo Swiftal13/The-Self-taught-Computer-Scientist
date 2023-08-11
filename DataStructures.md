@@ -58,9 +58,9 @@ TestTuple = (3,9,1)
 
     
 # record
-a record is one row of fields in a database
+a record is one row of fields in a database<br>
 each field is a different type of value
 
-you can access each specific field of the record by this format <br>
+you can access each specific field of the record by this format: <br>
 recordName.fieldName <br>
 Students.LastName
