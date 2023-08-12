@@ -74,6 +74,6 @@ A linked list is a **dynamic and recursive data structure** <br>
 at each node, it has a pointer, which acts as an address to the next node<br>
 
 the first node is called the **head**, and the last node is called the **tail**  
-  - the first pointer will direct towards the 2nd value<br>
+  - the head pointer will point to the first node<br>
   - the last pointer will give the value "Null" . There is no next node. Null means there is no value associated<br>
   - also, when a linked list is empty, the head (first) pointer will point to Null, (no values)
