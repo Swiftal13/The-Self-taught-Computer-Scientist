@@ -67,4 +67,6 @@ you can access each specific field of the record by this format: <br>
 - recordName.fieldName <br>
 - Students.LastName
 
+# Linked list
+A linked list is a dynamic and recursive data structure
   
