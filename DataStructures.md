@@ -55,6 +55,8 @@ this means it cannot be modified
 ```py 
 TestTuple = (3,9,1)
 ```
+specific values are accessed the same way as a list. **Indexing**<br>
+TestTuple[1] will be 9
 
     
 # record
