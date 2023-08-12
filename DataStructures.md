@@ -70,8 +70,8 @@ you can access each specific field of the record by this format: <br>
 # Linked list
 A linked list is a **dynamic and recursive data structure** <br>
 
-- it is made up of nodes, contains a **data value** and a **pointer**<br>
-at each node, it has a pointer, which acts as an address to the next node<br>
+it is made up of **nodes**, each containing a **data value** and a **pointer**<br>
+  - at each node, it has a pointer, which acts as an address to the next node<br>
 
 the first node is called the **head**, and the last node is called the **tail**  
   - the head pointer will point to the first node<br>
@@ -80,5 +80,7 @@ the first node is called the **head**, and the last node is called the **tail**
 
 null in binary is all 0's aswell, hence represents no value
 
-to access certain values, we cannot use indexing and instantly get a specific value like an array<br>
-instead you have to traverse through each node till you get to the right node
+to access certain values, we cannot use indexing and instantly get a specific value like an array<br> **THERE IS NO INDEXING**
+instead you have to **traverse through each node till you get to the right node**
+
+
