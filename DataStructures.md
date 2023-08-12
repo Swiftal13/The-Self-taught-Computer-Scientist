@@ -76,4 +76,9 @@ at each node, it has a pointer, which acts as an address to the next node<br>
 the first node is called the **head**, and the last node is called the **tail**  
   - the head pointer will point to the first node<br>
   - the last pointer will give the value "Null" . There is no next node. Null means there is no value associated<br>
-  - also, when a linked list is empty, the head (first) pointer will point to Null, (no values)
+  - also, when a linked list is empty, the head (first) pointer will point to Null, (no values)<br>
+
+null in binary is all 0's aswell, hence represents no value
+
+to access certain values, we cannot use indexing and instantly get a specific value like an array<br>
+instead you have to traverse through each node till you get to the right node
