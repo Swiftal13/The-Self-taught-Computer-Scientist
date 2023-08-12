@@ -69,5 +69,6 @@ you can access each specific field of the record by this format: <br>
 
 # Linked list
 A linked list is a **dynamic and recursive data structure** <br>
-it is made up of nodes, each being a data value
+it is made up of nodes, each being a data value<br>
+at each node, it has a pointer, which acts as an address to the next node 
   
