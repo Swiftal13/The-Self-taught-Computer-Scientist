@@ -39,10 +39,11 @@ TestArray[1,2]
 ```
 
 # List
-similar to array but non contiguous memory placr
-values do not have to be same data type
+a data structure that consists of ordered items where they can occur more than once<br><br>
+values do not have to be same data type, there cna be different types
 list also uses indexing to access elements.<br>
-lists however can contain different data types, not just one
+
+one difference from an array is: **list values are stored non-contigouosly**
 
 # Common functions
 list.append(value) to add data value to end of list <br>
