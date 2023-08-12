@@ -59,8 +59,8 @@ specific values are accessed the same way as a list. **Indexing**<br>
 TestTuple[1] will be 9
 
     
-# record
-a record is one row of fields in a database<br>
+# Record
+a Record is one row of fields in a database<br>
 each field is a different type of value
 
 you can access each specific field of the record by this format: <br>
