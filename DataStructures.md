@@ -78,7 +78,7 @@ it is made up of **nodes**, each containing a **data value** and a **pointer**<b
 
 the first node is called the **head**, and the last node is called the **tail**  
   - the head pointer will point to the first node<br>
-  - the last pointer will give the value "Null" . There is no next node. Null means there is no value associated<br>
+  - the last pointer will give the value **"Null"** . There is no next node. Null means there is no value associated<br>
   - also, when a linked list is empty, the head (first) pointer will point to Null, (no values)<br>
 
 null in binary is all 0's aswell, hence represents no value
