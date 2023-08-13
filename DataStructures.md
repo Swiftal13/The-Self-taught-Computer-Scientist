@@ -84,6 +84,7 @@ the first node is called the **head**, and the last node is called the **tail**
 null in binary is all 0's aswell, hence represents no value
 
 to access certain values, we cannot use indexing and instantly get a specific value like an array<br> **THERE IS NO INDEXING**
-instead you have to **traverse through each node till you get to the right node**
+instead you have to **traverse through each node till you get to the right node**<br>
+to get to the 4th node, you have to go 1,2,3 and then finally 4
 
 
