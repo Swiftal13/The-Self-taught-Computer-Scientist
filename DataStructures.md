@@ -89,4 +89,4 @@ to get to the 4th node, you have to go 1,2,3 and then finally 4<br><br>
 
 - video: if you add an extra pointer to each node, it can point to previous aswell as next node = **Doubley linked list**<br>
 - video: if you make the last node point to the first node, you have created a **circular linked list**<br>
-circular linked list there is no head or tail, no null value either
+          circular linked list there is no head or tail, no null value either
