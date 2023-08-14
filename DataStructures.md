@@ -100,5 +100,9 @@ you can also combine circular and doubley to form **doubley circular**
 
 # Graph
 
-a graph is a **set of vertices or nodes** connected by **edges**
-it is used to represent relationships between a set of objects
+a graph is a **set of vertices or nodes** connected by **edges**<br>
+it is used to represent relationships between a set of objects<br><br>
+
+**3 types:**<br>
+Directed graph: The edges can only be traversed in one direction. They have a **direction** 
+
