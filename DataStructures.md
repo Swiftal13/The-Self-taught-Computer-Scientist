@@ -83,9 +83,12 @@ the first node is called the **head**, and the last node is called the **tail**
 
 null in binary is all 0's aswell, hence represents no value
 
+
+
 to access certain values, we cannot use indexing and instantly get a specific value like an array<br> **THERE IS NO INDEXING**
 instead you have to **traverse through each node till you get to the right node**<br>
 to get to the 4th node, you have to go 1,2,3 and then finally 4<br><br>
+
 
 - video: if you add an extra pointer to each node, it can point to previous aswell as next node = **Doubley linked list**<br>
 - video: if you make the last node point to the first node, you have created a **circular linked list**<br>
