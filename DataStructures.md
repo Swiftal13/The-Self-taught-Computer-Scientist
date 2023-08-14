@@ -101,3 +101,4 @@ you can also combine circular and doubley to form **doubley circular**
 # Graph
 
 a graph is a **set of vertices or nodes** connected by **edges**
+it is used to represent relationships between a set of objects
