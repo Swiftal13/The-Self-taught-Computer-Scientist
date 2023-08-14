@@ -96,3 +96,8 @@ This will take O(n) runtime<br><br>
           circular linked list there is no head or tail, no null value either
 
 you can also combine circular and doubley to form **doubley circular**
+
+
+# Graph
+
+a graph is a **set of vertices or nodes** connected by **edges**
