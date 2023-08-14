@@ -87,7 +87,8 @@ null in binary is all 0's aswell, hence represents no value
 
 to access certain values, we cannot use indexing and instantly get a specific value like an array<br> **THERE IS NO INDEXING**
 instead you have to **traverse through each node till you get to the right node**<br>
-to get to the 4th node, you have to go 1,2,3 and then finally 4<br><br>
+to get to the 4th node, you have to go 1,2,3 and then finally 4
+This will take O(n) runtime<br><br>
 
 
 - video: if you add an extra pointer to each node, it can point to previous aswell as next node = **Doubley linked list**<br>
