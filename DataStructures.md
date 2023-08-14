@@ -14,7 +14,7 @@
 An array is an **ordered, finite set of elements**, each of the **same data type**<br>
 - **Each element has the same memory size**
 - **each value is stored in contiguous memory locations**<br>
-contiguously means that the memory is allocated consecutively next to eachother, such as in the array
+contiguously means that the memory is allocated consecutively next to eachother, such as in the array, hence we use indexing
 
 A 1D array is a **linear array**. It can also be 2D, 3D and so on<br><br>
 
