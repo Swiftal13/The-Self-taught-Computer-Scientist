@@ -106,4 +106,5 @@ it is used to represent relationships between a set of objects<br><br>
 **3 types:**<br>
 **Directed graph**: The edges can only be **traversed in one direction**. They have a **direction** 
 **Undirected graph**: The edges can be **traversed in both directions** forward and back
+**Weighted graph**: The edges have a **unique cost** to each one
 
