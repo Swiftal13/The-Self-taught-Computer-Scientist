@@ -108,3 +108,6 @@ it is used to **represent relationships between a set of objects**<br><br>
 **Undirected graph**: The edges can be **traversed in both directions** forward and back<br>
 **Weighted graph**: The edges have a **unique cost** to go across each edge
 
+![image](https://github.com/Swiftal13/The-Self-taught-Computer-Scientist/assets/76588047/8c95cec3-aa16-4ece-ade6-4bac09c1f8ec)
+
+
