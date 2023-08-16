@@ -111,4 +111,5 @@ it is used to **represent relationships between a set of objects**<br><br>
 
 ![image](https://github.com/Swiftal13/The-Self-taught-Computer-Scientist/assets/76588047/8c95cec3-aa16-4ece-ade6-4bac09c1f8ec)
 
-
+**3 types of graphs**
+**Null graph** - **no edges** in the graph (no connections between each vertice/node)
