@@ -113,14 +113,14 @@ weighted probalistic outcomes
 ![image](https://github.com/Swiftal13/The-Self-taught-Computer-Scientist/assets/76588047/8c95cec3-aa16-4ece-ade6-4bac09c1f8ec)
 
 **3 types of graphs**<br>
-**Null graph** - **no edges** in the graph (no connections between each vertice/node)
+**Null graph** - **no edges** in the graph (no connections between each vertice/node)<br>
 **Trivial graph** - graph with only **one vertex**
 
 
 # Stack
-A stack is a **LIFO (Last in First out)** data structure
-It is an abstract data structure, that serves as a collection of elements
-- the latest element added, would be the first element removed (imagine a stack of elements, only add and remove from the top)
+A stack is a **LIFO (Last in First out)** data structure<br>
+It is an abstract data structure, that serves as a collection of elements<br>
+- the latest element added, would be the first element removed (imagine a stack of elements, only add and remove from the top)<br><br>
 
-**Push** - To add an element to the top of the stack
-**Pop** - To remove the most recent element from top of the stack
+**Push** - To add an element to the top of the stack<br>
+**Pop** - To remove the most recent element from top of the stack<br>
