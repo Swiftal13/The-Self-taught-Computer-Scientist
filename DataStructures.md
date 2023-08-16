@@ -115,3 +115,8 @@ weighted probalistic outcomes
 **3 types of graphs**<br>
 **Null graph** - **no edges** in the graph (no connections between each vertice/node)
 **Trivial graph** - graph with only **one vertex**
+
+
+# Stack
+A stack is a LIFO (Last in First out) data structure
+- the latest element added, wouild be the first element removed (imagine a stack of elements, only add and remove from the top)
