@@ -119,4 +119,5 @@ weighted probalistic outcomes
 
 # Stack
 A stack is a LIFO (Last in First out) data structure
+It is an abstract data structure, that serves as a collection of elements
 - the latest element added, wouild be the first element removed (imagine a stack of elements, only add and remove from the top)
