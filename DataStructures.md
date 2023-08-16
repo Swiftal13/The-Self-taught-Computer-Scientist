@@ -80,9 +80,10 @@ the first node is called the **head**, and the last node is called the **tail**
   - the head pointer will point to the first node<br>
   - the last pointer will give the value **"Null"** . There is no next node. Null means there is no value associated<br>
   - also, when a linked list is empty, the head (first) pointer will point to Null, (no values)<br>
+  ![image](https://github.com/Swiftal13/The-Self-taught-Computer-Scientist/assets/76588047/d33960fe-5a7d-49cd-80f5-093c3c5cbf63)
+
 
 null in binary is all 0's aswell, hence represents no value
-
 
 
 to access certain values, we cannot use indexing and instantly get a specific value like an array<br> **THERE IS NO INDEXING**
