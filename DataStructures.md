@@ -114,3 +114,4 @@ weighted probalistic outcomes
 
 **3 types of graphs**<br>
 **Null graph** - **no edges** in the graph (no connections between each vertice/node)
+**Trivial graph** - graph with only **one vertex**
