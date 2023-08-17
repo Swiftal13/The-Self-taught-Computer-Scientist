@@ -116,6 +116,8 @@ weighted probalistic outcomes
 **Null graph** - **no edges** in the graph (no connections between each vertice/node)<br>
 **Trivial graph** - graph with only **one vertex**
 
+**A cycle** is a closed path, i.e. a path that starts and ends at the same node **(and no node is visited more than once)**
+
 
 # Stack
 A stack is a **LIFO (Last in First out)** data structure<br>
