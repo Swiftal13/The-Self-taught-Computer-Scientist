@@ -29,7 +29,8 @@ Space complexity is the amount of memory an algorithm uses depending on its inpu
 - must be considered when their is a memory limit<br><br>
 
 # Best and Worst case
-Within algorithms there is a best and worst case<br>
-A best case scenario is the best possible input, which takes the least time and most efficient process<br>
-A worst case scenario is the worst possible input, which takes the most amount of time and least efficient<br>
+Within algorithms there is a **best and worst case**<br><br>
+A best case scenario is the **best possible input**, which takes the **least time** and most efficient process<br>
+A worst case scenario is the **worst possible input**, which takes the **most amount of time** and least efficient<br>
+
 There is also an average case which are the average inputs and average run time 
