@@ -8,7 +8,7 @@ Every algorithm has 3 qualities
 The magnitude of algorithms are measured by <b>Time and Space complexity</b><br>
 A complexity is symbolised using the <b>big O notation</b>
 
-<u>Time complexity</u><br>
+<u>**Time complexity**</u><br>
 - Time complexity is used to represent the magnitude of the run time of the algorithm, the time for the steps taken in an algorithm
 - it is useful to show the efficiency of an algorithm
 
