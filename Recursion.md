@@ -20,6 +20,6 @@ def factorial(n):
       n * factorial(n-1)
   ```
 
-recursion works with a **call stack**. Stack data structure<br> 
+recursion works with a **call stack**. **Stack data structure**<br> 
 It is made of frames, each are function calls
 It adds each one on top of eachother, then rewinds it back down like LIFO
