@@ -124,7 +124,8 @@ A stack is a **LIFO (Last in First out)** data structure<br>
 It is an abstract data structure, that serves as a collection of elements<br>
 - the latest element added, would be the first element removed (imagine a stack of elements, only add and remove from the top)<br><br>
 
-**Push** - To add an element to the top of the stack<br>
-**Pop** - To remove the most recent element from top of the stack<br>
-**Peak** - returns a copy of the element on the top of the stack without removing it<br>
-**is_empty** - checks whether a stack is empty<br>
+**Push(data)** - To add an element to the top of the stack<br>
+**Pop()** - To remove the most recent element from top of the stack<br>
+**Peak()** - returns a copy of the element on the top of the stack without removing it<br>
+**is_empty()** - checks whether a stack is empty<br>
+**is_full()** - checks whether a stack is at maximum capacity when stored in a static (fixed-size) structure
