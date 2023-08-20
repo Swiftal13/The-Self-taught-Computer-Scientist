@@ -126,4 +126,4 @@ It is an abstract data structure, that serves as a collection of elements<br>
 
 **Push** - To add an element to the top of the stack<br>
 **Pop** - To remove the most recent element from top of the stack<br>
-**Peak** - Fetch the the top element value without modifiying it<br>
+**Peak** - returns a copy of the element on the top of the stack without removing it<br>
