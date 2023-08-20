@@ -129,3 +129,5 @@ It is an abstract data structure, that serves as a collection of elements<br>
 **Peak()** - returns a copy of the element on the top of the stack without removing it<br>
 **is_empty()** - checks whether a stack is empty<br>
 **is_full()** - checks whether a stack is at maximum capacity when stored in a static (fixed-size) structure
+
+Stack overflow and stack underflow
