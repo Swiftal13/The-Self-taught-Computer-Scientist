@@ -128,9 +128,9 @@ It is an abstract data structure, that serves as a collection of elements<br>
 **Pop()** - To remove the most recent element from top of the stack<br>
 **Peak()** - returns a copy of the element on the top of the stack without removing it<br>
 **is_empty()** - checks whether a stack is empty<br>
-**is_full()** - checks whether a stack is at maximum capacity when stored in a static (fixed-size) structure
+**is_full()** - checks whether a stack is at maximum capacity when stored in a static (fixed-size) structure<br><br>
 
-**Stack overflow**
-- when pushing data to a stack, if there is no more allocated memory, it will raise a buffer overflow, called stack overflow, meaning no more space
-**Stack underflow**
-  - when popping data from stack, if it is already empty and nothing to pop, stack underflow error is returned
+**Stack overflow**<br>
+when pushing data to a stack, if there is no more allocated memory, it will raise a buffer overflow, called stack overflow, meaning no more space<br>
+**Stack underflow**<br>
+when popping data from stack, if it is already empty and nothing to pop, stack underflow error is returned<br>
