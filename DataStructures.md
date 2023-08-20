@@ -130,4 +130,7 @@ It is an abstract data structure, that serves as a collection of elements<br>
 **is_empty()** - checks whether a stack is empty<br>
 **is_full()** - checks whether a stack is at maximum capacity when stored in a static (fixed-size) structure
 
-Stack overflow and stack underflow
+**Stack overflow**
+- when pushing data to a stack, if there is no more allocated memory, it will raise a buffer overflow, called stack overflow, meaning no more space
+**Stack underflow**
+  - when popping data from stack, if it is already empty and nothing to pop, stack underflow error is returned
