@@ -15,7 +15,7 @@ Primitive data types
 you combine primitive data types to form **compound data types** such as a record data structure
 
 # Static vs Dynamic
-Static data structures have a set amount of memory allocated to the data structure
+Static data structures have a set amount of memory allocated to the data structure. A fixed size amount of memory
 
 
 
