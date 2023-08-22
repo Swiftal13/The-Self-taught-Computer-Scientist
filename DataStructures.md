@@ -16,6 +16,7 @@ you combine primitive data types to form **compound data types** such as a recor
 
 # Static vs Dynamic
 Static data structures have a set amount of memory allocated to the data structure. A fixed size amount of memory
+In certain languages, programmers can set and predefine the memory amount for the structure
 
 
 
