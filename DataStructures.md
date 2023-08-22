@@ -14,6 +14,8 @@ Primitive data types
 
 you combine primitive data types to form **compound data types** such as a record data structure
 
+# Static vs Dynamic
+
 
 
 
