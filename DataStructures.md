@@ -19,6 +19,8 @@ Static data structures have a **set amount of memory allocated** to the data str
 In certain languages, programmers can **set and predefine** the memory amount for the structure<br>
 **Example: array**
 
+Dynamic
+
 
 
 # Array 
