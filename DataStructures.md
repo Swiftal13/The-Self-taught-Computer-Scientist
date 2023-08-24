@@ -23,6 +23,7 @@ In certain languages, programmers can **set and predefine** the memory amount fo
 Dynamic data structures are **memory efficient** <br>
 It has a dynamic size, not fixed<br>
 This uses **dynamic memory allocation**
+- memory cells being allocated during the run time
 
 
 
