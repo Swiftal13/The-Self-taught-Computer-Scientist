@@ -23,3 +23,4 @@ def factorial(n):
 recursion works with a **call stack**. **Stack data structure**<br> 
 It is made of frames, each are function calls
 It adds each one on top of eachother, then rewinds it back down like LIFO
+Everytime it recursive pass goes, it adds a frame to the stack.
