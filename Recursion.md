@@ -27,3 +27,4 @@ Everytime it recursive pass goes, it adds a frame to the stack.
 Then, when it reaches the base case. IT goes back down the call stack. this works when printing the number.<br>
 
 With recursion and call stacks. Two things are created. Stack overflow and stack
+Both caused by either limited memory or an empty stack
