@@ -48,4 +48,8 @@ def right_int(s1):
 ```
 
 But we can use a **list comprehension**<br>
-to create a list based on the values of an existing list
+to create a list based on the values of an existing list<br>
+to craete a new, altered list from an existing **iterable** (like another list)
+an iterable is a **python object that can be iterated through**, and can return all its elements, such as a list
+
+
