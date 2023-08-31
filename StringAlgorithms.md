@@ -63,3 +63,9 @@ new_list = [expression(i) for i in iterable if filter(i)]
 **for i in iterable** is traversing through the iterable<br>
 **if filter(i)** will be the condition, to make changes to the original iterable
 
+```py
+newList = [val for val in "selftaught"]
+print(newList)
+```
+its not just a list, an **iterable**! so it can be a string aswell that you iterate through<br>
+here I just create a new list of each individual char value of the string
