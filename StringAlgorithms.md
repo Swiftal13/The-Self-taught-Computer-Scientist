@@ -69,3 +69,10 @@ print(newList)
 ```
 its not just a list, an **iterable**! so it can be a string aswell that you iterate through<br>
 here I just create a new list of each individual char value of the string
+
+```py
+newList = [val for val in "Buy 1 get 2 free" if val.isdigit()]
+print(newList[-1])
+```
+**Time complexity**: O(n), because iterating through a string once<br>
+shorter, reable code
