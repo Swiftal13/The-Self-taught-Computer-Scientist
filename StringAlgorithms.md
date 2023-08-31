@@ -20,6 +20,14 @@ anagrams are case sensitive and can contain multiple words: therefore we ```s1 =
 Then uses ``py sorted()``` function to sort, and then compare
 
 # Palindrome detection
+A **Palindrome** is a word that reads backwards and forwards the same<br>
+to check this, we can reverse the string using ```py [::-1]```, and compare<br>
 
+```py
+def is_palindrome(s1):
+    if s1.lower() == (s1[::-1]).lower():
+        return True
+    return False
+```
 
 
