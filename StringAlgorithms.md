@@ -32,4 +32,4 @@ def is_palindrome(s1):
 remember the reason we dont need else, is because **return breaks a function** and ends it completely. So if it returns True it does not get to return False<br>
 again **capitilization can affect comparision**, so we use ```py .lower()``` aswell
 
-The **time complexity** of this algorithm. the dominant is the slicing. This visits every time in the list to reverse it. Its complexity is ```O(n)```. Making the algorithm run time ``O(n)``
+The **time complexity** of this algorithm. The dominant term is the slicing. This visits every time in the list to reverse it. Its complexity is ```O(n)```. Making the algorithm run time ``O(n)``
