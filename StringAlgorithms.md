@@ -52,4 +52,9 @@ to create a list based on the values of an existing list<br>
 to create a new, altered list from an existing **iterable** (like another list)
 an iterable is a **python object that can be iterated through**, and can return all its elements, such as a list
 
+**Advantage**: use a more optimized internal mechanism for iterating over the collection.<br>
+**performs transformations and filtering in a single statement**, therefore **more concise, efficient code**. Using a loop is excess lines.
+
+the template syntax for list comprehension:
+```py new_list = [expression(i) for i in iterable if filter(i)]
 
