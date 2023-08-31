@@ -59,4 +59,7 @@ the template syntax for list comprehension:<br>
 ```py
 new_list = [expression(i) for i in iterable if filter(i)]
 ```
+**expression(i)** is a variable that holds each element from the iterable, and adds it to the new list.<br>
+**for i in iterable** is traversing through the iterable<br>
+**if filter(i)** will be the condition, to make changes to the original iterable
 
