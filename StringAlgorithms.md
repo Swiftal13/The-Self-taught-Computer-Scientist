@@ -47,4 +47,5 @@ def right_int(s1):
     print(all_int[-1])
 ```
 
-But we can use a **list comprehension**
+But we can use a **list comprehension**<br>
+to create a list based on the values of an existing list
