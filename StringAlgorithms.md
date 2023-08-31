@@ -35,3 +35,16 @@ again **capitilization can affect comparision**, so we use ```py .lower()``` asw
 The **time complexity** of this algorithm. The dominant term is the slicing. This visits every time in the list to reverse it. Its complexity is ```O(n)```. Making the algorithm run time ``O(n)``
 
 # Last digit 
+return the rightmost digit in a string
+
+my way
+```py
+def right_int(s1):
+    all_int = []
+    for char in s1:
+        if char.isdigit():
+            all_int.append(char)
+    print(all_int[-1])
+```
+
+But we can use a **list comprehension**
