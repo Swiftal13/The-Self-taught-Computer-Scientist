@@ -29,5 +29,6 @@ def is_palindrome(s1):
         return True
     return False
 ```
-remember the reason we dont need else, is because return breaks a function and ends it completely. So if it returns True it does not get to return False
+remember the reason we dont need else, is because return breaks a function and ends it completely. So if it returns True it does not get to return False<br>
+again capitlization can affect comparision, so we use ```py .lower()``` aswell
 
