@@ -16,4 +16,10 @@ def is_anagram(s1,s2):
 print(is_anagram("car", "arc"))
 # returns true
 ```
-anagrams are case sensitive and can contain multiple words: therefore we ```s1 = s1.replace(" ", "")``` to **remove any spaces , and convert all to lowercase**
+anagrams are case sensitive and can contain multiple words: therefore we ```s1 = s1.replace(" ", "")``` to **remove any spaces , and convert all to lowercase**<br>
+Then uses ``py sorted()``` function to sort, and then compare
+
+# Palindrome detection
+
+
+
