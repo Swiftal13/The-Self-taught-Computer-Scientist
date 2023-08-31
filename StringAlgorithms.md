@@ -56,5 +56,5 @@ an iterable is a **python object that can be iterated through**, and can return 
 **performs transformations and filtering in a single statement**, therefore **more concise, efficient code**. Using a loop is excess lines.
 
 the template syntax for list comprehension:
-```py new_list = [expression(i) for i in iterable if filter(i)]
+```py new_list = [expression(i) for i in iterable if filter(i)]```
 
