@@ -80,6 +80,7 @@ shorter, reable code
 
 # Ceaser Cipher
 > **Cipher** = an algorithm for encryption or decryption<br>
+
 The key to this is using **modulo arithmetic**<br>
             - numbers wrap around at a specific value<br>
             - such as a clock that wraps around 12 to go back to 1<br>
