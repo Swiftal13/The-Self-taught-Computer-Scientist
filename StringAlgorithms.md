@@ -78,7 +78,7 @@ print(newList[-1])
 shorter, reable code
 
 
-# Ceaser Cipher
+# Caeser Cipher
 > **Cipher** = an algorithm for encryption or decryption<br>
 
 Caeser Cipher shifted the alphabet by a certain number. If the letter would go past the last letter, it wraps around back to the first letter.
@@ -86,3 +86,26 @@ The key to this is using **modulo arithmetic**<br>
             - numbers wrap around at a specific value<br>
             - such as a clock that wraps around 12 to go back to 1<br>
 this is caused by the **modulos**. For example 7 oclock add 8 hours is 15, but its **3** modulos 12
+
+```py
+import string
+
+
+def CaeserCipher(a_string, key):
+    encrypt = ""
+    uppercase = string.ascii_uppercase
+    lowercase = string.ascii_lowercase
+
+    for letter in a_string:
+        if letter in uppercase:
+            newLetter = (uppercase.index(letter) + key) % 26
+            encrypt += lowercase[newLetter]
+        elif letter in lowercase:
+            newLetter = (lowercase.index(letter) + key) % 26
+            encrypt += uppercase[newLetter]
+    return encrypt
+
+
+
+print(CaeserCipher("hello", 2))
+```
