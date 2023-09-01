@@ -85,4 +85,4 @@ Caeser Cipher shifted the alphabet by a certain number. If the letter would go p
 The key to this is using **modulo arithmetic**<br>
             - numbers wrap around at a specific value<br>
             - such as a clock that wraps around 12 to go back to 1<br>
-this is caused by the modulos. For example 7 oclock add 8 hours is 15, but its **3** modulos 12
+this is caused by the **modulos**. For example 7 oclock add 8 hours is 15, but its **3** modulos 12
