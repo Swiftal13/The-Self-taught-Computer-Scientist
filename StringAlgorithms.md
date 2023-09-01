@@ -80,7 +80,7 @@ shorter, reable code
 
 # Ceaser Cipher
 > **Cipher** = an algorithm for encryption or decryption<br>
-
+Caeser Cipher shifted the alphabet by a certain number. If the letter would go past the last letter, it wraps around back to the first letter.
 The key to this is using **modulo arithmetic**<br>
             - numbers wrap around at a specific value<br>
             - such as a clock that wraps around 12 to go back to 1<br>
