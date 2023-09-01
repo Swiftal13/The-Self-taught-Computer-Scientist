@@ -109,3 +109,5 @@ def CaeserCipher(a_string, key):
 
 print(CaeserCipher("hello", 2))
 ```
+**Time complexity**: O(n)
+Due to the for loop that iterates through the string
