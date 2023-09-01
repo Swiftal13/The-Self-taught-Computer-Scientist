@@ -49,7 +49,7 @@ def right_int(s1):
 
 ### **list comprehension**<br>
 to create a list based on the values of an existing list<br>
-**to create a new, altered list from an existing iterable (like another list)**
+**to create a new, altered list from an existing iterable (like another list)**<br>
 an iterable is a **python object that can be iterated through**, and can return all its elements, such as a list
 
 **Advantage**: use a more optimized internal mechanism for iterating over the collection.<br>
