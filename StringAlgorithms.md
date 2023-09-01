@@ -76,3 +76,8 @@ print(newList[-1])
 ```
 **Time complexity**: O(n), because iterating through a string once<br>
 shorter, reable code
+
+
+# Ceaser Cipher
+**Cipher** = an algorithm for encryption or decryption<br>
+The key to this is using **modulo arithmetic**
