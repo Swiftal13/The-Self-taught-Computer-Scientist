@@ -8,8 +8,5 @@ the number system represents how many digits there are.
 We use base 10, as we count with numbers 1 to 9
 
 the same number can be in many different bases. Therefore to indicate what base a number is in, programmers use specific notation.
-```
-100b
-%100
-0b100
-```
+```100b %1000 b100```
+
