@@ -21,4 +21,4 @@ The decimal system, each place value is a power of 10<br>
 to peform operations on individual bits of binary representations of numbers<br>
 they work at a **Binary level**<br>
 
-```bin``` to work with binary numbers in python
+```bin``` to work with binary numbers in python, returns binary value of number
