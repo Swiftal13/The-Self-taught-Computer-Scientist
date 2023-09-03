@@ -18,3 +18,4 @@ The decimal system, each place value is a power of 10<br>
 10^2 = 100 and so on<br><br>
 
 ## Bitewise operators
+to peform operations on individual bits of binary representations of numbers
