@@ -18,7 +18,8 @@ The decimal system, each place value is a power of 10<br>
 10^2 = 100 and so on<br><br>
 
 ## Bitewise operators
-to peform operations on individual bits of binary representations of numbers<br>
+operator to peform operations on individual bits of binary representations of numbers<br>
 they work at a **Binary level**<br>
 
 ```bin``` to work with binary numbers in python, returns binary value of number
+AND operator peforms Boolean arithmetic bit by bit
