@@ -23,6 +23,6 @@ they work at a **Binary level**<br>
 
 ```bin``` to work with binary numbers in python, returns binary value of number<br>
 
-**And** operator peforms Boolean arithmetic bit by bit<br> It is like python ``and``. Both conditions must be true, for result to be True, else False
-When both bits are 1, returns 1
-When  
+**And** operator peforms Boolean arithmetic bit by bit<br> It is like python ``and``. Both conditions must be true, for result to be True, else False<br>
+When both bits are 1 (True), returns 1(True)<br>
+When both or one is 0 (False), returns 0 (False)
