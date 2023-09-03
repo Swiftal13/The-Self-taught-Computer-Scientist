@@ -30,7 +30,9 @@ When both or one is 0 (False), returns 0 (False)
 ```py
 print(1 and 2)
 ```
-first it compares bit by bit if its 1 or 0 each digit, then it makes a binary number from it that can form a decimal base number
+first it compares bit by bit if its 1 or 0 each digit, then it makes a binary number from it that can form a decimal base number<br>
+ampersand symbol &
 
 ### OR
 works bit by bit, returns 1 when one or more of the two bits is True, returns False when both are False
+pipe symbol
