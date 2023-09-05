@@ -34,5 +34,5 @@ first it compares bit by bit if its 1 or 0 each digit, then it makes a binary nu
 ampersand symbol &
 
 ### OR
-works bit by bit, returns 1 when one or more of the two bits is True, returns False when both are False
+works bit by bit, returns 1 when one or more of the two bits is True, returns False when both are False<br>
 pipe symbol
