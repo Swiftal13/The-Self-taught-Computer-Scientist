@@ -35,4 +35,5 @@ ampersand symbol &
 
 ### OR
 works bit by bit, returns 1 when one or more of the two bits is True, returns False when both are False<br>
-pipe symbol
+pipe symbol<br>
+similar to **python 
