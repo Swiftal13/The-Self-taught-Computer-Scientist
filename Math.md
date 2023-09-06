@@ -1,3 +1,4 @@
+
 ## Binary
 A binary number is a number in the **base 2 numberal system**<br>
 ```a numeral system is a writing system for expressing numbers```<br><br>
@@ -33,6 +34,7 @@ print(1 and 2)
 first it compares bit by bit if its 1 or 0 each digit, then it makes a binary number from it that can form a decimal base number<br>
 ampersand symbol &
 **to check if a number is even or odd**
+
 
 ### OR
 works bit by bit, returns 1 when one or more of the two bits is True, returns False when both are False<br>
