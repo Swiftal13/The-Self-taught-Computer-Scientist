@@ -33,8 +33,9 @@ print(1 and 2)
 ```
 first it compares bit by bit if its 1 or 0 each digit, then it makes a binary number from it that can form a decimal base number<br>
 ampersand symbol &
-**to check if a number is even or odd**
+### to check if a number is even or odd
 because the binary of number 2 has a **0 at the end**, whereas the number 1 always has **a 1 at the end**
+how this works, is 1 is only 1 binary digit, 1 at the end. When you compare the last digit of two things, if its even it will return 0 (false), as the last digit of the even, will be 0, and the 1 is 1 so they are not the same
 
 
 ### OR
