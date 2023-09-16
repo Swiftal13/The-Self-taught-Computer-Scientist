@@ -91,7 +91,7 @@ you can access each specific field of the record by this format: <br>
 A linked list is a **dynamic and recursive data structure** <br>
 
 it is made up of **nodes**, each containing a **data value** and a **pointer**<br>
-  - at each node, it has a pointer, which acts as an address to the next node<br>
+  - at each node, it has a pointer, which acts as an **address** to the next node<br>
 
 the first node is called the **head**, and the last node is called the **tail**  
   - the head pointer will point to the first node<br>
