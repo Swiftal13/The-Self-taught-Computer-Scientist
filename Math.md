@@ -44,3 +44,4 @@ pipe symbol<br>
 similar to **python 
 
 ## Highest common factor
+- highest number that n1 and n2 are divisible by.
