@@ -42,3 +42,5 @@ how this works, is 1 is only 1 binary digit, 1 at the end. When you compare the 
 works bit by bit, returns 1 when one or more of the two bits is True, returns False when both are False<br>
 pipe symbol<br>
 similar to **python 
+
+## Highest common factor
