@@ -48,6 +48,10 @@ similar to **python
 python code
 ```py
 def hcf(n1,n2):
+    if n1 == 0:
+        return n2
+    if n2 == 0
+        return n1
     if n1 < n2:
         smaller = n1
     else:
