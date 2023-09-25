@@ -63,3 +63,5 @@ def hcf(n1,n2):
         
 print(hcf(8,4))
 ```
+
+0 is a boundary condition input, did not expect 0 input
