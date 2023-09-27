@@ -1,5 +1,4 @@
 # Stack memory
 Memory usage mechanism allows system memory to be used in LIFO structure
 
-# Heap memory
-Dynamic memomry
+laguages like c++ and java can allocate memory 
