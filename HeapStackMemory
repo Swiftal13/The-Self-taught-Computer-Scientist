@@ -1,5 +1,5 @@
 # Stack memory
-Memory usage mechanism allows system memory to be used in LIFO structure
+Memory usage mechanism allows system memory to be used in FIFO structure
 
 laguages like c++ and java can allocate memory 
 allocation happens on contigious blocks of memory
