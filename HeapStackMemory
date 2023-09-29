@@ -9,5 +9,6 @@ like we said in recursion, a stack is used to allocate memory for function calls
 laguages like c++ and java can allocate memory 
 allocation happens on contigious blocks of memory
 it is a stack memory allocation because frames of memory are appended to a call stack 
+they say a stack "grows downwards""
 
 whenever a new function is called memory is temporarily added to a stack FIFO data strutcure
