@@ -43,6 +43,12 @@ works bit by bit, returns 1 when one or more of the two bits is True, returns Fa
 pipe symbol<br>
 similar to **python 
 
+
+
+
+![image](https://github.com/Swiftal13/The-Self-taught-Computer-Scientist/assets/76588047/23744790-1e2a-4eea-93d8-5fdd22c6e902)
+
+
 ## Highest common factor
 - highest number that n1 and n2 are divisible by.
 python code
