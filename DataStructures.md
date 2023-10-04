@@ -1,5 +1,5 @@
  ## Data structures
- Detailed notes for each data structure from arrays to BST heaps and stacks. Great
+ Detailed notes for each data structure from arrays to BST heaps and stacks. I should look at this regularly to active recall. These are computer science principles
 
 - Arrays (2d,3d..)
 - Linked lists
