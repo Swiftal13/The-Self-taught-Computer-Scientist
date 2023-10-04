@@ -18,7 +18,9 @@ you combine primitive data types to form **compound data types** such as a recor
 Static data structures have a **set amount of memory allocated** to the data structure. A **fixed size amount of memory**<br>
 This uses **static memory allocation**<br>
 In certain languages, programmers can **set and predefine** the memory amount for the structure<br>
-**Example: array**
+**Example: array**<br><br>
+
+In static data strucutres, you can avoid stack overflow and underflow, you will not exceed maximum memory 
 
 Dynamic data structures are **memory efficient** <br>
 It has a dynamic size, not fixed<br>
