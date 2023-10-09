@@ -9,7 +9,7 @@
 
 # Required context
 Primitive data types
-- Integer, boolean
+- Integer, boolean, float
 - stores on data value
 
 you combine primitive data types to form **compound data types** such as a record data structure
