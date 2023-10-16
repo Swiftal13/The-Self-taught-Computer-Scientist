@@ -25,7 +25,7 @@ In static data strucutres, you can avoid stack overflow and underflow, you will 
 Dynamic data structures are **memory efficient** <br>
 It has a dynamic size, not fixed<br>
 This uses **dynamic memory allocation**
-- memory cells being allocated during the run time
+- memory cells being allocated **during the run time**
 
 
 
