@@ -64,7 +64,7 @@ TestArray[1,2]
 
 # List
 a data structure that consists of **ordered items where they can occur more than once**<br><br>
-- values **do not have to be same data type**, there can be different types<br>
+- values **do not have to be same data type**, there can be different types. Heterogenous<br>
 - list also uses indexing to access elements.<br>
 - one difference from an array is: **list values are stored non-contigouosly**
 
