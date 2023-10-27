@@ -35,7 +35,7 @@ This uses **dynamic memory allocation**
 
 
 # Array 
-An array is an **ordered, finite set of elements**, each of the **same data type**<br>
+An array is an **ordered, finite set of elements**, each of the **same data type**. **Homogenous**<br>
 - **Each element has the same memory size**
 - **each value is stored in contiguous memory locations**<br>
 Contiguously means that the memory is allocated consecutively next to eachother, such as in the array, hence we use indexing
