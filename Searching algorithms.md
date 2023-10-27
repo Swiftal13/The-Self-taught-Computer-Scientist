@@ -13,7 +13,7 @@ for i in list:
     pass
 ```
 
-Efficient for small lists, can work on both ordered and unordered lists<br>
+**Efficient for small lists, can work on both ordered and unordered lists**<br>
 The time complexity for linear search is **O(n) (linear time complexity)**
 
 
