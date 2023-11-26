@@ -1,4 +1,4 @@
- ## Data structures revise 
+ ## Data structures
 a way of organizing data in a computer 
 An abstract data type is the description of a data structure. A **data structure is the implementation** of an abstract data type
 **Linear data structure**, data stored sequentially, non linear it is stored non sequentially
