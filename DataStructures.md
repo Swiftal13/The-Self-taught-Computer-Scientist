@@ -9,7 +9,7 @@ An abstract data type is the description of a data structure. A **data structure
 - Arrays (2d,3d..)
 - Linked lists
 - stacks
-- heaps / binary tree structure
+- heaps / binary tree structures
 - hashtables and maps
 
 # Required context
