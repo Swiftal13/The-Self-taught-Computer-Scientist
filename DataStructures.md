@@ -147,6 +147,10 @@ weighted probalistic outcomes
 
 **A cycle** is a closed path, i.e. a path that starts and ends at the same node **(and no node is visited more than once)**
 
+planarity
+kruskal
+prim
+dijkstra
 
 # Stack
 A stack is a **LIFO (Last in First out)** data structure<br>
