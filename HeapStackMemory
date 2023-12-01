@@ -1,5 +1,5 @@
 # Stack memory
-Memory usage mechanism allows system memory to be used in LIFO structure
+**Memory usage mechanism allows system memory to be used in LIFO structure**
 
 
 like we said in recursion, a stack is used to allocate memory for function calls.
