@@ -171,3 +171,5 @@ when popping data from stack, if it is already empty and nothing to pop, stack u
 One example use is in **recursion**
 - it uses a call stack, adding frames to the stack every recursive pass
 - once it reaches a base case, it then unwinds down the stack again
+
+# queues
