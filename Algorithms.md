@@ -12,7 +12,7 @@ A complexity is symbolised using the <b>big O notation</b>
 - Time complexity is used to represent the magnitude of the run time of the algorithm, the time for the steps taken in an algorithm
 - it is useful to show the efficiency of an algorithm
 
-Each complexity in descending efficiency<br>
+<u>Each complexity in descending efficiency</u><br>
 Constant O(1)<br>
 Logarithmic O(log n)<br>
 Linear O(n)<br>
