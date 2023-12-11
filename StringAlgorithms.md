@@ -35,7 +35,7 @@ again **capitilization can affect comparision**, so we use ```py .lower()``` asw
 The **time complexity** of this algorithm. The dominant term is the slicing. This visits every time in the list to reverse it. Its complexity is ```O(n)```. Making the algorithm run time ``O(n)``
 
 # Last digit 
-return the rightmost digit in a string
+return the **rightmost digit in a string**
 
 my way
 ```py
