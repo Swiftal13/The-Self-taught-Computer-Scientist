@@ -155,7 +155,7 @@ dijkstra
 # Stack
 A stack is a **LIFO (Last in First out)** data structure<br>
 It is an **abstract data structure**, that serves as a collection of elements<br>
-- the latest element added, would be the first element removed (imagine a stack of elements, only add and remove from the top)<br><br>
+- the **latest element added, would be the first element removed **(imagine a stack of elements, only add and remove from the top)<br><br>
 
 **Push(data)** - To add an element to the top of the stack<br>
 **Pop()** - To remove the most recent element from top of the stack<br>
