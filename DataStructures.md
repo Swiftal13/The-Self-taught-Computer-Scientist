@@ -169,7 +169,7 @@ when pushing data to a stack, if there is no more allocated memory, it will rais
 when popping data from stack, if it is already empty and nothing to pop, stack underflow error is returned<br><br>
 
 One example use is in **recursion**
-- it uses a call stack, adding frames to the stack every recursive pass
+- it uses a **call stack**, adding frames to the stack every recursive pass
 - once it reaches a base case, it then unwinds down the stack again
 
 # queues
