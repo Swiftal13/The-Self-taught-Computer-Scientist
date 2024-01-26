@@ -47,7 +47,7 @@ def right_int(s1):
     print(all_int[-1])
 ```
 
-### **list comprehension**<br>
+### <u>**list comprehension**</u><br>
 to create a list based on the values of an existing list<br>
 **to create a new, altered list from an existing iterable (like another list)**<br>
 an iterable is a **python object that can be iterated through**, and can return all its elements, such as a list
