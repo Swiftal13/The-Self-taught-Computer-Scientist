@@ -1,6 +1,6 @@
  ## Data structures
 a way of organizing data in a computer 
-An abstract data type is the description of a data structure. A **data structure is the implementation** of an abstract data type
+An **abstract data type** is the description of a data structure. A **data structure is the implementation** of an abstract data type
 **Linear data structure**, data stored sequentially, non linear it is stored non sequentially
 
  Detailed notes for each data structure from arrays to BST heaps and stacks. I should look at this regularly to active recall. These are computer science principles
