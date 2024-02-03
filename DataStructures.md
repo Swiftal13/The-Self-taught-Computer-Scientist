@@ -27,7 +27,7 @@ In certain languages, programmers can **set and predefine** the memory amount fo
 
 In static data strucutres, you can avoid stack overflow and underflow, you will not exceed maximum memory 
 
-Dynamic data structures are **memory efficient** <br>
+**Dynamic data structures** are **memory efficient** <br>
 It has a dynamic size, not fixed<br>
 This uses **dynamic memory allocation**
 - **memory cells** being allocated **during the run time**
