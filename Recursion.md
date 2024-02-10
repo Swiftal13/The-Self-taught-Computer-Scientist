@@ -19,7 +19,7 @@ def factorial(n):
       n -= 1
       n * factorial(n-1)
   ```
-
+lj
 recursion works with a **call stack**. **Stack data structure**<br> 
 It is made of frames, each are **function calls**<br>
 It adds each one on top of eachother, then rewinds it back down like LIFO<br>
