@@ -13,3 +13,4 @@ they say a stack "grows downwards""
 
 whenever a new function is called memory is temporarily added to a stack FIFO data strutcure
 vfg
+hd
