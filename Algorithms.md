@@ -33,4 +33,4 @@ Within algorithms there is a **best and worst case**<br><br>
 A best case scenario is the **best possible input**, which takes the **least time** and most efficient process<br>
 A worst case scenario is the **worst possible input**, which takes the **most amount of time** and least efficient<br>
 
-There is also an average case which are the average inputs and average run time 
+There is also an **average case** which are the average inputs and average run time 
